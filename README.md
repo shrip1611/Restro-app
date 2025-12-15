@@ -70,7 +70,7 @@ restro-app/
 - ⭐ Customer reviews and ratings
 
 ## Author
-Created as a Shriram Pandav.
+Created by Shriram Pandav.
 
 ## License
 MIT License - Feel free to use this project for learning and development purposes.
