@@ -1,0 +1,29 @@
+
+.swiper-pagination-bullet {
+  background-color: #ef4444; 
+  opacity: 0.6;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #ffffff; 
+  opacity: 1;
+}
+/* .menu-img{
+  position: relative;
+}
+.menu-img div{
+  position: absolute;
+    top: 4px;
+    left: 8px;
+    background-color: #d4ff6e;
+    color: #000;
+    padding: 2px 12px;
+    border-radius: 8px;
+    font-size: 12px;
+} */
+
+@media (min-width: 768px) {
+  .section-row:nth-child(even) .section-image{
+    order:-1;
+}
+}

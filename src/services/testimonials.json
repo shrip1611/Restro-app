@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Jennifer",
+      "location": "California",
+      "image": "user1.png",
+      "text": "Amazing taste and quick service. Every dish feels freshly made. Truly worth it!"
+    },
+    {
+      "id": 2,
+      "name": "Michael",
+      "location": "New York",
+      "image": "user2.png",
+      "text": "Loved the ambience and food quality. Perfect place for family dining."
+    },
+    {
+      "id": 3,
+      "name": "Sophia",
+      "location": "Texas",
+      "image": "user3.png",
+      "text": "Great flavors, generous portions, and friendly staff. Highly recommended!"
+    },
+    {
+      "id": 4,
+      "name": "Daniel",
+      "location": "Florida",
+      "image": "user4.png",
+      "text": "Affordable prices with premium taste. Definitely coming back again."
+    }
+  ]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "tag": "BIRTHDAY PARTY",
+    "title": "Birthday Parties",
+    "desc": "Delicious food and joyful vibes to celebrate birthdays of all ages.",
+    "image": "birthday.jpg"
+  },
+  {
+    "id": 2,
+    "tag": "OFFICE PARTY",
+    "title": "Corporate Events",
+    "desc": "Professional catering tailored for meetings, celebrations, and corporate events.",
+    "image": "office.jpg"
+  },
+  {
+    "id": 3,
+    "tag": "WEEDING HALL",
+    "title": "Wedding Catering",
+    "desc": "Elegant catering and seamless service to make your special day unforgettable.",
+    "image": "weeding.jpg"
+  }
+]

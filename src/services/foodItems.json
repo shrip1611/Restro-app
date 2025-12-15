@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "Cauliflower Curry",
+    "description": "Indian-style spiced cauliflower curry",
+    "type": "Vege",
+    "image": "CauliflowerCurry.jpeg",
+    "off": 11,
+    "price": "₹300",
+    "discount": "₹250"
+  },
+  {
+    "id": 2,
+    "title": "Chickpea Curry",
+    "description": "Slow-cooked chickpeas in aromatic spices",
+    "type": "Vege",
+    "image": "ChickpeaCurry.jpeg",
+    "off": 15,
+    "price": "₹200",
+    "discount": "₹170"
+  },
+  {
+    "id": 3,
+    "title": "Cottage Cheese in Creamy Tomato Sauce",
+    "description": "Soft paneer in rich tomato gravy",
+    "type": "Vege",
+    "image": "CottageCheeseinCreamyTomatoSauce.jpeg",
+    "off": 10,
+    "price": "₹280",
+    "discount": "₹250"
+  },
+  {
+    "id": 4,
+    "title": "Creamy Black Lentils",
+    "description": "Slow-cooked black lentils with butter and cream",
+    "type": "Vege",
+    "image": "CreamyBlackLentils.jpeg",
+    "off": 12,
+    "price": "₹220",
+    "discount": "₹190"
+  },
+  {
+    "id": 5,
+    "title": "Fragrant Spiced Vegetable",
+    "description": "Basmati rice cooked with mixed vegetables and spices",
+    "type": "Vege",
+    "image": "FragrantSpicedVegetable.jpeg",
+    "off": 18,
+    "price": "₹350",
+    "discount": "₹290"
+  },
+  {
+    "id": 6,
+    "title": "Grilled Cottage Cheese Skewers",
+    "description": "Char-grilled paneer with Indian spices",
+    "type": "Vege",
+    "image": "GrilledCottageCheeseSkewers.jpeg",
+    "off": 8,
+    "price": "₹180",
+    "discount": "₹160"
+  },
+  {
+    "id": 7,
+    "title": "Hara Bhara Kabab",
+    "description": "Spinach and vegetable patties shallow fried",
+    "type": "Vege",
+    "image": "HaraBharaKabab.jpeg",
+    "off": 11,
+    "price": "₹300",
+    "discount": "₹250"
+  },
+  {
+    "id": 8,
+    "title": "Mixed Vegetable Curry",
+    "description": "Seasonal vegetables cooked in mild gravy",
+    "type": "Vege",
+    "image": "MixedVegetableCurry.jpeg",
+    "off": 15,
+    "price": "₹200",
+    "discount": "₹170"
+  },
+  {
+    "id": 9,
+    "title": "Potato & Cauliflower Curry",
+    "description": "Classic potato and cauliflower dry curry",
+    "type": "Vege",
+    "image": "Potato&CauliflowerCurry.jpeg",
+    "off": 10,
+    "price": "₹280",
+    "discount": "₹250"
+  },
+  {
+    "id": 10,
+    "title": "Royal Creamy Cottage Cheese",
+    "description": "Rich paneer curry with nuts and cream",
+    "type": "Vege",
+    "image": "RoyalCreamyCottageCheese.jpeg",
+    "off": 12,
+    "price": "₹220",
+    "discount": "₹190"
+  },
+  {
+    "id": 11,
+    "title": "Spiced Chickpea Curry",
+    "description": "Chickpeas simmered in spicy onion gravy",
+    "type": "Vege",
+    "image": "SpicedChickpeaCurry.jpeg",
+    "off": 18,
+    "price": "₹350",
+    "discount": "₹290"
+  },
+  {
+    "id": 12,
+    "title": "Spinach & Green Veg Patties",
+    "description": "Healthy spinach and green vegetable cutlets",
+    "type": "Vege",
+    "image": "Spinach&GreenVegPatties.jpeg",
+    "off": 8,
+    "price": "₹180",
+    "discount": "₹160"
+  },
+  {
+    "id": 13,
+    "title": "Veg Spring Rolls",
+    "description": "Crispy rolls stuffed with vegetables",
+    "type": "Vege",
+    "image": "VegSpringRolls.jpeg",
+    "off": 11,
+    "price": "₹300",
+    "discount": "₹250"
+  },
+  {
+    "id": 14,
+    "title": "Yellow Lentils with Spices",
+    "description": "Light lentil curry tempered with spices",
+    "type": "Vege",
+    "image": "YellowLentilswithSpices.jpeg",
+    "off": 15,
+    "price": "₹200",
+    "discount": "₹170"
+  },
+  {
+    "id": 15,
+    "title": "Clay-Oven Roasted Chicken",
+    "description": "Tandoori-style roasted chicken",
+    "type": "Non-Vege",
+    "image": "Clay-OvenRoastedChicken.jpeg",
+    "off": 10,
+    "price": "₹280",
+    "discount": "₹250"
+  },
+  {
+    "id": 16,
+    "title": "Creamy Tomato Chicken",
+    "description": "Chicken cooked in buttery tomato sauce",
+    "type": "Non-Vege",
+    "image": "CreamyTomatoChicken.jpeg",
+    "off": 12,
+    "price": "₹220",
+    "discount": "₹190"
+  },
+  {
+    "id": 17,
+    "title": "Grilled Chicken in Spiced Cream Sauce",
+    "description": "Grilled chicken in rich creamy gravy",
+    "type": "Non-Vege",
+    "image": "GrilledChickeninSpicedCreamSauce.jpeg",
+    "off": 18,
+    "price": "₹350",
+    "discount": "₹290"
+  },
+  {
+    "id": 18,
+    "title": "Grilled Spiced Fish",
+    "description": "Fish marinated with spices and grilled",
+    "type": "Non-Vege",
+    "image": "GrilledSpicedFish.jpeg",
+    "off": 8,
+    "price": "₹180",
+    "discount": "₹160"
+  },
+  {
+    "id": 19,
+    "title": "Indian Spiced Chicken Curry",
+    "description": "Traditional Indian chicken curry",
+    "type": "Non-Vege",
+    "image": "IndianSpicedChickenCurry.jpeg",
+    "off": 11,
+    "price": "₹300",
+    "discount": "₹250"
+  },
+  {
+    "id": 20,
+    "title": "Indian Spiced Lamb",
+    "description": "Tender lamb cooked with Indian spices",
+    "type": "Non-Vege",
+    "image": "IndianSpicedLamb.jpeg",
+    "off": 15,
+    "price": "₹200",
+    "discount": "₹170"
+  },
+  {
+    "id": 21,
+    "title": "Minced Meat Curry",
+    "description": "Spiced minced meat cooked in gravy",
+    "type": "Non-Vege",
+    "image": "MincedMeatCurry.jpeg",
+    "off": 10,
+    "price": "₹280",
+    "discount": "₹250"
+  },
+  {
+    "id": 22,
+    "title": "Slow-Cooked Spiced Lamb Curry",
+    "description": "Slow-cooked lamb in rich gravy",
+    "type": "Non-Vege",
+    "image": "Slow-CookedSpicedLambCurry.jpeg",
+    "off": 12,
+    "price": "₹220",
+    "discount": "₹190"
+  },
+  {
+    "id": 23,
+    "title": "Chicken in Spiced Cream Sauce",
+    "description": "Creamy mildly spiced chicken curry",
+    "type": "Non-Vege",
+    "image": "ChickeninSpicedCreamSauce.jpeg",
+    "off": 18,
+    "price": "₹350",
+    "discount": "₹290"
+  },
+  {
+    "id": 24,
+    "title": "Spiced Chicken Rice",
+    "description": "Basmati rice cooked with spiced chicken",
+    "type": "Non-Vege",
+    "image": "SpicedChickenRice.jpeg",
+    "off": 8,
+    "price": "₹180",
+    "discount": "₹160"
+  },
+  {
+    "id": 25,
+    "title": "Spiced Egg Curry",
+    "description": "Boiled eggs cooked in onion gravy",
+    "type": "Non-Vege",
+    "image": "SpicedEggCurry.jpeg",
+    "off": 11,
+    "price": "₹300",
+    "discount": "₹250"
+  },
+  {
+    "id": 26,
+    "title": "Spicy Fried Chicken Bites",
+    "description": "Crispy deep-fried spicy chicken",
+    "type": "Non-Vege",
+    "image": "SpicyFriedChickenBites.jpeg",
+    "off": 15,
+    "price": "₹200",
+    "discount": "₹170"
+  },
+  {
+    "id": 27,
+    "title": "Spiced Indian Fish Curry",
+    "description": "Traditional Indian fish curry",
+    "type": "Non-Vege",
+    "image": "SpicedIndianFishCurry.jpeg",
+    "off": 10,
+    "price": "₹280",
+    "discount": "₹250"
+  },
+  {
+    "id": 28,
+    "title": "Spicy Shrimp Curry",
+    "description": "Shrimp cooked in spicy coconut gravy",
+    "type": "Non-Vege",
+    "image": "SpicyShrimpCurry.jpeg",
+    "off": 12,
+    "price": "₹220",
+    "discount": "₹190"
+  }
+]
